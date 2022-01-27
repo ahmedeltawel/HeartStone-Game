@@ -1,0 +1,12 @@
+To start the game open StartView class in the package view and run.
+To play a card (minion or spell) just press on the wanted card(minion or spell)  from your hand.
+To play a  targeted spell first choose the spell then the target of your spell.
+To attack a certain minion just press on the minion that will attack (from your own field) then the minion that will be attacked(from the opponent’s field).
+The hero power lies on top right of your hero, and by pressing it the power is activated.
+The minions on the field have attack and health JLabels that show their values, and a jewel that shows the minions rarity.
+If the minion is Taunt there will be a shield covering it. 
+If the minion has Divine shield, a yellow shield will be above it.
+If the minion is sleeping a sleeping icon will lie on the top right of the minion.
+All cards on the hand have images that show all the cards values.
+Any minion on the field that is pressed on will turn red representing that it is the selected minion.
+To get a better understanding of the GUI of the Game click on Game Board in the main menu(in Game).
