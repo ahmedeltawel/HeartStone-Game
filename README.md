@@ -56,6 +56,13 @@ Welcome to our Hearthstone-like card game! This game allows players to use cards
 - When a minion on the field is selected, it turns red to indicate selection.
 - For a comprehensive understanding of the game's GUI, click on `Game Board` in the main menu (in-game).
 
+
+## Visual Representation
+https://github.com/ahmedeltawel/HeartStone-Game/assets/75771860/01c95ee7-b18c-4b31-a220-56a669a9dcdb
+
+
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
